@@ -254,7 +254,7 @@ let () = main ()
 
 * The sequencing operators are actually a monad. I like to think about
   them as programmable semicolons.
-* The [Code] is available as a Gist.
+* The [Code] is available on GitHub.
 
 [OCaml]:  http://www.ocaml.org
-[Code]:   https://gist.github.com/lindig/92057c920c553be7ef8741e9d366e496
+[Code]:   https://github.com/lindig/mkdir
